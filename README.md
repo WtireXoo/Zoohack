@@ -15,9 +15,9 @@ Visit "https://discord.gg/cdJyGh3k"; our discord servers has all the newest and 
 
 # Future Updates
 
-2.0 ==> Better ui, the last update before the paid ones come in, Features that blow your mind 1 dollar (skrill,paypal)
+2.0 ==> Better ui, the last update features that blow your mind 1 dollar (skrill,paypal)
 
-3.0 ==> Only can be accesible through a private key, details will be in the future.
+3.0 ==> Only can be accesible through a private key
 
 # Founders
 
