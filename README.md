@@ -1,3 +1,7 @@
+# Notice
+
+Zoohack's development is paused without a duration.(Paused in; 7.6. 2025 10:10)
+
 # Zoohack
 
 Zoohack is a application that lets you be more close with zoom than before.
