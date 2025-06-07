@@ -15,4 +15,4 @@ Visit "https://discord.gg/cdJyGh3k"; our discord servers has all the newest and 
 
 # Founders
 
-I am the founder of this programa (Wamaii;) 
+I am the founder of this programa (WtireXoo) 
