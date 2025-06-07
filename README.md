@@ -1,6 +1,6 @@
 # Notice
 
-Zoohack's development is paused without a duration.(Paused in; 7.6. 2025 10:10)
+Zoohack's development is paused without a duration. (Paused in; 7.6. 2025 10:10)
 
 # Zoohack
 
