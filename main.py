@@ -338,4 +338,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Made by @rlfdopaminess
+# Made by @wtirexoo
