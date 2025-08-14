@@ -1,5 +1,5 @@
 <h1 align="center">
-  🛑 Zoohack Development Paused
+  🛑 Zoohack Development Paused (Scroll Down To See Status!)
 </h1>
 
 <p align="center">
@@ -74,6 +74,11 @@ Have an idea or want to help revive Zoohack? DM me on Discord!
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Thanks+for+using+Zoohack.;See+you+in+the+next+update+🛸" />
-</p>
+## 🫀 Status
+
+> Zoohack is paused, for an unknown date.
+> It may be for a year, in a week or never ever updated again.
+> Please understand that coding such an "easy to-make" tool is not that easy.
+> It is made in python with a few libraries, which makes it **weak.**
+
+---
