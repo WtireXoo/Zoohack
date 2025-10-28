@@ -47,7 +47,7 @@ Whether you're pranking your friends or testing response automation, Zoohack hel
 
 Join our official Discord server:
 
-[🔗 https://discord.gg/cdJyGh3k](https://discord.gg/cdJyGh3k)
+[UNAVAILABLE]
 
 There, you can access:
 - 📁 Latest builds
