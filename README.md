@@ -1,11 +1,6 @@
 <h1 align="center">
-  👀 Zoohack Development Active! (Scroll Down To See Status!)
+  👀 Zoohack Development Active!
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Development+Paused+as+of+7.6.2025+10%3A10;No+ETA+for+Resume;Zoohack+is+on+actively+being+worked+on!..." />
-</p>
-
 ---
 
 <h1 align="center">
@@ -37,7 +32,7 @@ Whether you're pranking your friends or testing response automation, Zoohack hel
 | 🔢 Version | 🛠️ Features                                                                 |
 |-----------|------------------------------------------------------------------------------|
 | 0.5       | 🔁 Turn ON/OFF mic and camera<br>💬 Spam Zoom chat every few seconds         |
-| 1.0       | ⚡ Improved toggle system (ms-level precision)<br>🖐️ Spam raise/lower hand<br>💬 Chat spam faster & smarter |
+| 1.0       | ⚡ Improved toggle system (ms-level precision)<br>🖐️ Spam raise/lower hand<br>💬 Chat spam faster & smarter | (LOST)
 
 ✅ **More features were planned**, but development is paused.
 
