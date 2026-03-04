@@ -1,7 +1,6 @@
 <h1 align="center">
   👀 Zoohack Development Active!
-</h1>
----
+</h1
 
 <h1 align="center">
   🐵 Zoohack
@@ -68,12 +67,5 @@ Have an idea or want to help revive Zoohack? DM me on Discord!
 > I do not take any responsibility for misuse or abuse of this tool.
 
 ---
-
-## 🫀 Status
-
-> Zoohack is paused, for an unknown date.
-> It may be for a year, in a week or never ever updated again.
-> Please understand that coding such an "easy to-make" tool is not that easy.
-> It is made in python with a few libraries, which makes it **weak.**
 
 ---
