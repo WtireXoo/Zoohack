@@ -1,6 +1,6 @@
 <h1 align="center">
   👀 Zoohack Development Active!
-</h1
+</h1>
 
 <h1 align="center">
   🐵 Zoohack
