@@ -1,5 +1,5 @@
 <h1 align="center">
-  👀 Zoohack Development Active!
+  👀 Zoohack Development Paused!
 </h1>
 
 <h1 align="center">
