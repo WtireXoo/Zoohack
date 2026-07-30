@@ -12,7 +12,7 @@ class Zoohack(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Zoohack")
+        self.setWindowTitle("Zoohack (Compiled) (0.8)")
         self.setGeometry(200, 200, 400, 400)
 
         # Set app icon
@@ -111,7 +111,7 @@ class Zoohack(QMainWindow):
         layout.addWidget(self.stacked_widget)
 
         # Watermark at the bottom
-        self.watermark_label = QLabel("Made by Dopaminess", self)
+        self.watermark_label = QLabel("Made by WtireXoo", self)
         self.watermark_label.setAlignment(Qt.AlignCenter)
         self.watermark_label.setStyleSheet("QLabel { font-size: 10px; color: gray; }")
         layout.addWidget(self.watermark_label)
