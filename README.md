@@ -18,7 +18,7 @@
 
 **Zoohack** is a lightweight application that gives you more control and interaction features during Zoom meetings.
 
-Whether you're pranking your friends or testing response automation, Zoohack helps you push Zoom's limits — responsibly.
+Whether you're pranking your friends or testing response automation, Zoohack helps you push Zoom's limits, responsibly.
 
 ⚠️ **Note**: This tool is educational and is currently **not being updated**.
 
