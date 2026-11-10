@@ -26,12 +26,12 @@ Whether you're pranking your friends or testing response automation, Zoohack hel
 
 ## 🧩 Features by Version
 
-> Two versions of Zoohack are currently available:
+> History of Zoohack:
 
 | 🔢 Version | 🛠️ Features                                                                 |
 |-----------|------------------------------------------------------------------------------|
-| 0.5       | 🔁 Turn ON/OFF mic and camera<br>💬 Spam Zoom chat every few seconds         |
-| 1.0       | ⚡ Improved toggle system (ms-level precision)<br>🖐️ Spam raise/lower hand<br>💬 Chat spam faster & smarter | (LOST)
+| 0.5 (LOST)      | 🔁 Turn ON/OFF mic and camera<br>💬 Spam Zoom chat every few seconds         |
+| 1.0 (CURRENT)   | ⚡ Improved toggle system (ms-level precision)<br>🖐️ Spam raise/lower hand<br>💬 Chat spam faster & smarter | 
 
 ✅ **More features were planned**, but development is paused.
 
@@ -39,15 +39,7 @@ Whether you're pranking your friends or testing response automation, Zoohack hel
 
 ## 📥 How to Download Older Versions?
 
-Join our official Discord server:
-
-[UNAVAILABLE]
-
-There, you can access:
-- 📁 Latest builds
-- 🕘 Archived versions (0.5, 1.0)
-- 📣 Announcements and support
-
+It is not available to Download Older Versions of Zoohack.
 ---
 
 ## 👑 Founders
